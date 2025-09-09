@@ -16,6 +16,7 @@ def get_coef(index, prompt):
             print("Ошибка: нужно ввести число.")
 
 
+
 def get_biquadratic_roots(a, b, c):
     result = []
 
