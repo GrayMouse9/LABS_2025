@@ -13,7 +13,7 @@ def get_coef(index, prompt):
             coef = float(coef_str)
             return coef
         except ValueError:
-            print("Ошибка: нужно ввести число.")
+             print("Ошибка: нужно ввести число.")
 
 
 
